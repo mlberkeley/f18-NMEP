@@ -1,0 +1,14 @@
+---
+height: 224
+width: 224
+batch_size : 2 
+num_classes : 3
+write_images : True
+weight_decay : 0
+beta1: 0.9
+crop_proportion : 0.82
+learning_rate : .0001
+num_blocks: 1
+num_epochs: 25
+last_layers: 9
+...
